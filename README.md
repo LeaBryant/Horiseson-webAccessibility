@@ -2,19 +2,9 @@
 
 # Description
 
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the icon and image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+In this repository for this Challenge it was to make sure that the webpage meets the meets accessibility standards. 
 
 
-Adding describtive text to the image called alt.
+    I found that the code didnt have a clear flow to it.
+    Then went in to the semantic HTML elements and noticed there were many different layers but that the footer could be combined on the CSS style sheet to help with the look of the web page. I did find that the elements follow a logical structure independent of styling and positioning, except for the side blog piece, to help with easy navagting through the page I added <aside> to the stucture so that it can clear state on where on the page it is. But I noticed that When you clicking on "Search engine Op" test in the header/nav it did not take you to the blog spot like the others. So that was fix by correcting the HTML code in the header by add in the correct # loction. Also with the images that there was not alt attributes after the images. So I did go ahead and Added alt attributes descriptive text to the images. 
 
-When clicking on Search engine Op it does not jusp down to the section
